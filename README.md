@@ -1,4 +1,6 @@
-gestionDepenses
+Gestion dépenses familiale
 ===============
 
-Gestion des dépenses familiales avec les auditeurs SMB214 (2014-2015)
+Proposition de projet
+
+Utilisation serveur application  et client android
